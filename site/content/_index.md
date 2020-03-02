@@ -1,5 +1,5 @@
 ---
-title: Funi coffee with a conscience
+title: nishimura coffee with a conscience
 subtitle: Support sustainable farming while enjoying a cup
 image: img/スクリーンショット-2020-03-02-21.43.48.png
 blurb:
