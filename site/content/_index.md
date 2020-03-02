@@ -1,7 +1,7 @@
 ---
 title: Funi coffee with a conscience
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: img/スクリーンショット-2020-03-02-21.43.48.png
 blurb:
   heading: Why Kaldi?
   text: >-
